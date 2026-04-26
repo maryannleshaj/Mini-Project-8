@@ -1,0 +1,5 @@
+Router-A Switch-1 1000
+Switch-1 Server-Beta 500
+Router-A Switch-2 100
+Switch-2 Server-Beta 800
+Switch-1 Switch-2 200
